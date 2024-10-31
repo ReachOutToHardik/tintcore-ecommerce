@@ -1,0 +1,19 @@
+/*  */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eeede7; /* Ivory */
+  color: #868b8e; /* Gray */
+}
+
+.product-card {
+  border: 1px solid #b9b7bd; /* Pewter */
+  padding: 10px;
+  margin: 10px;
+  background-color: #e7d2cc; /* Scallop Seashell */
+}
+
+.cart {
+  background-color: #000000; /* Darkest Black */
+  color: #ffffff; /* White for contrast */
+  padding: 20px;
+}
